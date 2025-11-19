@@ -1,2 +1,2 @@
-# Est-cio-Estruturas-de-Dados-Conceitos-e-Representa-o---Testes
+# Estácio-Estruturas-de-Dados-Conceitos-e-Representação-para-Testes
 Projeto para treino da disciplina Estrutura de dados
